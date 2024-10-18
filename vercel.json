@@ -2,7 +2,7 @@
     "redirects": [
       {
         "source": "/",
-        "destination": "/dark/index.html",
+        "destination": "/dark/home.html",
         "permanent": true
       }
     ]
